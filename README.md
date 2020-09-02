@@ -1,6 +1,5 @@
 # Exercicios2CSharp
-Lista de Exercícios resolvidos em c#
-Com um Menu para acessar cada um deles.
+Soluções em c# para os Exercícios abaixo, com um Menu para acessar cada um individualmente.
 
 1 – Desenvolva um algoritmo que calcule a quinta potência de um número qualquer. Utilizar
 FuncaoQuadrado() e Math.Pow().
