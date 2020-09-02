@@ -1,0 +1,13 @@
+C:\Users\vitor\Desktop\exerciciosPAV\exerciciosAula2\exerciciosAula2\obj\Debug\netcoreapp3.1\exerciciosAula2.csprojAssemblyReference.cache
+C:\Users\vitor\Desktop\exerciciosPAV\exerciciosAula2\exerciciosAula2\obj\Debug\netcoreapp3.1\exerciciosAula2.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\exerciciosPAV\exerciciosAula2\exerciciosAula2\obj\Debug\netcoreapp3.1\exerciciosAula2.AssemblyInfo.cs
+C:\Users\vitor\Desktop\exerciciosPAV\exerciciosAula2\exerciciosAula2\obj\Debug\netcoreapp3.1\exerciciosAula2.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\exerciciosPAV\exerciciosAula2\exerciciosAula2\bin\Debug\netcoreapp3.1\exerciciosAula2.exe
+C:\Users\vitor\Desktop\exerciciosPAV\exerciciosAula2\exerciciosAula2\bin\Debug\netcoreapp3.1\exerciciosAula2.deps.json
+C:\Users\vitor\Desktop\exerciciosPAV\exerciciosAula2\exerciciosAula2\bin\Debug\netcoreapp3.1\exerciciosAula2.runtimeconfig.json
+C:\Users\vitor\Desktop\exerciciosPAV\exerciciosAula2\exerciciosAula2\bin\Debug\netcoreapp3.1\exerciciosAula2.runtimeconfig.dev.json
+C:\Users\vitor\Desktop\exerciciosPAV\exerciciosAula2\exerciciosAula2\bin\Debug\netcoreapp3.1\exerciciosAula2.dll
+C:\Users\vitor\Desktop\exerciciosPAV\exerciciosAula2\exerciciosAula2\bin\Debug\netcoreapp3.1\exerciciosAula2.pdb
+C:\Users\vitor\Desktop\exerciciosPAV\exerciciosAula2\exerciciosAula2\obj\Debug\netcoreapp3.1\exerciciosAula2.dll
+C:\Users\vitor\Desktop\exerciciosPAV\exerciciosAula2\exerciciosAula2\obj\Debug\netcoreapp3.1\exerciciosAula2.pdb
+C:\Users\vitor\Desktop\exerciciosPAV\exerciciosAula2\exerciciosAula2\obj\Debug\netcoreapp3.1\exerciciosAula2.genruntimeconfig.cache
